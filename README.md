@@ -1,60 +1,37 @@
-# <p align="center">Welcome to Grey Chan's Lab 🧪</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Founder-InnerDuel.ai-000000?style=for-the-badge&logo=probot&logoColor=00f2ff&labelColor=1a1a1a" alt="Founder">
-  <img src="https://img.shields.io/badge/Human_OS-IDT_System-000000?style=for-the-badge&logo=neuroscience&logoColor=ff00ff&labelColor=1a1a1a" alt="IDT">
-  <img src="https://img.shields.io/badge/Tech-Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=00ff00&labelColor=1a1a1a" alt="AI">
-</p>
+# <p align="center">Grey Chan's Lab 🧪</p>
+### <p align="center">The Frontier of Audacious AI Creativity 🧪</p>
 
----
+Founded by Grey Chan, a seasoned creative visionary and dedicated neuro-geek, Grey Chan's Lab is a pioneering creative studio with a singular mission: to become the most audacious explorer of AI-driven creativity on the internet.
 
-## 🧠 About Me: Redefining the "Human Operating System"
+We don't just use AI; we push it to its absolute limits to redefine the intersection of technology and the human psyche. Our creative reach is boundless, spanning across a diverse ecosystem of high-impact content, including:
 
-Hey! I'm **Grey**. I don't just build software; I design frameworks for the human mind. 
+Psychological Testing & Frameworks: Innovating personality mapping through neuropsychology (such as the IDT system).
 
-I got tired of the mental chaos, so I created **IDT (Inner Duel Type)** — a neuro-based personality system with **12 unique types**. My mission is to help people move from "survival mode" to "flow state" by mastering their internal council.
+Narrative Media: Crafting next-generation vertical short dramas and cinematic storytelling.
 
-- 🛠 **Current Project**: [InnerDuel.ai](https://innerduel.ai) (AI-powered "Inner Council" framework).
-- 🧬 **Research**: Neural personality mapping & cognitive equilibrium.
-- ⚡ **Vision**: Helping people achieve true harmony and smarter, more confident life decisions.
+Interactive Experiences: Developing immersive games and digital sandboxes.
 
----
+Strategic Branding: Revolutionizing brand marketing and cultural creativity.
 
-## 🧬 The 12 IDT Neural Profiles
+IP Development: Incubating original IP content with deep narrative depth.
 
-> "Stop surviving in chaos. Start living in flow."
+At Grey Chan's Lab, we believe the future of creativity is collaborative—where human intuition meets machine intelligence to create the impossible.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-01.jpg" width="800" alt="IDT Map">
-  (https://github.com/greychan1971/InnerDuel)
-</p>
+# <p align="center">陈格雷工作室 🧪</p>
+### <p align="center">立志成为大胆的AI创意所 🧪</p>
 
----
+Grey Chan's Lab 是由资深创意人、神经极客 Grey Chan 创立的先锋创意工作室。我们的愿景十分明确：成为全网在 AI 创意应用领域领域最大胆、最无畏、最前卫的实验室。
 
-## 🏛 The 5-Member Inner Council (L.D.S.T.B.)
+我们不满足于仅仅将 AI 视为工具，我们致力于挖掘它的极限，重塑技术与人类心灵交汇处的可能。我们的创意版图涵盖了多元化的数字生态，包括但不限于：
 
-Every IDT type navigates life through a unique council of archetypes:
-* **L** - (Leo) Logic & Reason
-* **D** - (Dominic) Desire & Impulse
-* **S** - (Sasha) Safety & Fear
-* **T** - (Thomas) Tradition & Truth
-* **B** - (Bella) Bond & Harmony
+心理测试与架构： 基于神经心理学开发的创新人格映射系统（如 IDT 体系）。
 
----
+叙事媒体： 打造次世代竖屏短剧与电影感叙事内容。
 
-## 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Framework-IDT-blueviolet?style=flat-square" alt="IDT">
-  <img src="https://img.shields.io/badge/AI-Google_Studio-orange?style=flat-square" alt="AI Studio">
-  <img src="https://img.shields.io/badge/Backend-Firebase-ffca28?style=flat-square&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/Design-Cyberpunk_UI-000000?style=flat-square" alt="Cyberpunk">
-</p>
+交互体验： 开发沉浸式游戏与数字沙盒实验。
 
----
+策略品牌化： 赋能品牌营销与文化创意产业。
 
-## 📬 Let's Connect
-- 🌐 **Project Home**: [InnerDuel.ai](https://innerduel.ai)
-- 📂 **Main Repo**: [InnerDuel](https://github.com/greychan1971/InnerDuel)
+IP 内容孵化： 深度挖掘具有叙事张力的原创 IP 内容。
 
-<p align="right">
-  <i>"Mastering your mind is the ultimate hack." — Grey Chan</i>
-</p>
+在 Grey Chan's Lab，我们坚信创意的未来属于人机协作——当人类的直觉与机器的智能碰撞，我们将共同创造曾经的“不可能”。
