@@ -5,7 +5,7 @@ Founded by Grey Chan, a seasoned creative visionary and dedicated neuro-geek, Gr
 
 We don't just use AI; we push it to its absolute limits to redefine the intersection of technology and the human psyche. Our creative reach is boundless, spanning across a diverse ecosystem of high-impact content, including:
 
-Psychological Testing & Frameworks: Innovating personality mapping through neuropsychology (such as the IDT system).
+Psychological Testing & Frameworks: | InnerDuel.ai (IDT system) | Innovating personality mapping through neuropsychology. Enter InnerDuel.ai, where you can take a personal brain nerve test and embark on a journey of self-evolution for your brain.
 
 Narrative Media: Crafting next-generation vertical short dramas and cinematic storytelling.
 
@@ -24,7 +24,7 @@ Grey Chan's Lab 是由资深创意人、神经极客 Grey Chan 创立的先锋�
 
 我们不满足于仅仅将 AI 视为工具，我们致力于挖掘它的极限，重塑技术与人类心灵交汇处的可能。我们的创意版图涵盖了多元化的数字生态，包括但不限于：
 
-心理测试与架构： 基于神经心理学开发的创新人格映射系统（如 IDT 体系）。
+心理测试与架构： | InnerDuel.ai (IDT system) | 基于神经心理学开发的创新人格映射系统。进入InnerDuel.ai，你可以在做个人脑神经测试，开启大脑的自我进化之旅。
 
 叙事媒体： 打造次世代竖屏短剧与电影感叙事内容。
 
